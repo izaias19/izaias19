@@ -1,4 +1,4 @@
-### Ola! Eu sou o latente
+### Ola! Eu sou o latente programador e desenvolvedor!
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando Python
 - 😄 Pronouns: ele/dele
